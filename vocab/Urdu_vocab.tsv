@@ -1,0 +1,101 @@
+index	word1	word2	in_vocab_w1	in_vocab_w2
+0	محبت	جنس	True	True
+1	کتاب	کاغذ	True	True
+2	کمپیوٹر	کی بورڈ	True	True
+3	کمپیوٹر	انٹرنیٹ	True	True
+4	ہوائی جہاز	گاڑی	True	True
+5	ٹیلی ویژن	ریڈیو	True	True
+6	روٹی	مکھن	True	True
+7	ککڑی	آلو	False	True
+8	ہوشیار	طالب علم	True	True
+9	بینک	پیسہ	True	True
+10	لکڑی	جنگل	True	True
+11	پیسے	نقد	True	True
+12	بادشاہ	گوبھی	True	True
+13	بادشاہ	ملکہ	True	True
+14	یروشلم	اسرائیل	True	True
+15	یروشلم	فلسطینی	True	True
+16	مقدس	جنس	True	True
+17	فٹ بال	ساکر	True	False
+18	فٹ بال	ٹینس	True	True
+19	ٹینس	ریکیٹ	True	False
+20	عرفات	امن	True	True
+21	عرفات	دہشت گردی	True	True
+22	قانون	وکیل	True	True
+23	فلم	پاپکارن	True	False
+24	فلم	تھیٹر	True	True
+25	طبیعیات	پروٹون	True	False
+26	فزکس	کیمسٹری	False	False
+27	شراب نوشی	کیمسٹری	True	False
+28	پینے	گاڑی	True	True
+29	پینے	کان	True	True
+30	پینے	منہ	True	True
+31	بچے	ماں	True	True
+32	منی	گہنا	True	False
+33	فرنس	چولہا	False	True
+34	خوراک	پھل	True	True
+35	بھائی	راہب	True	False
+36	سفر	گاڑی	True	True
+37	جنگل	قبرستان	True	True
+38	راہب	غلام	False	True
+39	گلاس	جادوگر	True	True
+40	پیسہ	دولت	True	True
+41	پیسہ	جائیداد	True	True
+42	ٹائیگر	جانور	False	True
+43	ٹائیگر	چڑیا گھر	False	True
+44	نفسیات	منغربیکتسا	True	False
+45	سیارے	نکشتر	False	False
+46	سیارے	چاند	False	True
+47	سیارے	سورج	False	True
+48	سیارے	کہکشاں	False	True
+49	سیارے	ھگولود	False	False
+50	کپ	کافی	True	True
+51	کپ	مضمون	True	True
+52	کپ	اعتراض	True	True
+53	کپ	پینے	True	True
+54	کپ	خوراک	True	True
+55	کپ	مادہ	True	True
+56	کپ	مائع	True	True
+57	زگوار	بلی کی	False	True
+58	توانائی	سیکرٹری	True	True
+59	توانائی	لیبارٹری	True	True
+60	کمپیوٹر	لیبارٹری	True	True
+61	ہتھیار	خفیہ	True	True
+62	تحقیقات	کوشش	True	True
+63	مریخ	سائنسدان	True	True
+64	خبر	رپورٹ	True	True
+65	تصویر	سطح	True	True
+66	بدھ	خبر	True	True
+67	میل	کلو میٹر	True	True
+68	کمپیوٹر	خبر	True	True
+69	علاقے	سطح	True	True
+70	جنگ	فوجی	True	True
+71	جلد	آنکھ	True	True
+72	جاپانی	امریکی	True	True
+73	تاخیر	نسل پرستی	True	True
+74	تاخیر	خبر	True	True
+75	وزیر	پارٹی	True	True
+76	اقلیت	امن	True	True
+77	کوشش	امن	True	True
+78	حکومت	بحران	True	True
+79	اعلان	خبر	True	True
+80	اعلان	کوشش	True	True
+81	معذوری	موت	False	True
+82	سو	فیصد	True	True
+83	ہارورڈ	ییل	False	False
+84	موت	صف	True	True
+85	موت	قیدی	True	True
+86	وکیل	ثبوت	True	True
+87	زندگی	موت	True	True
+88	امن	ماحول	True	True
+89	علاقے	کلومیٹر	True	True
+90	مسابقت	قیمت	False	True
+91	مسئلہ	ہوائی اڈے	True	True
+92	کریڈٹ	معلومات	True	True
+93	ہوٹل	بکنگ	True	True
+94	رجسٹریشن	انتظام	True	True
+95	مہینے	ہوٹل	True	True
+96	صورت حال	تنہائی	True	True
+97	سٹریٹ	جگہ	True	True
+98	سٹریٹ	بلاک	True	True
+99	سٹریٹ	بچوں	True	True

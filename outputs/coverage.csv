@@ -1,0 +1,8 @@
+Language,Pairs,Unique words,OOV words,Coverage %,Pairs with >=1 OOV,Pairs dropped
+Gujarati,163,221,44,80.1,47,0
+Hindi,235,318,58,81.8,70,0
+Marathi,253,337,64,81.0,79,0
+Punjabi,143,206,33,84.0,37,0
+Tamil,97,137,33,75.9,36,0
+Telugu,111,160,52,67.5,55,0
+Urdu,100,146,20,86.3,23,0

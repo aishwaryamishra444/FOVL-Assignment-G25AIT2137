@@ -1,0 +1,11 @@
+gensim==4.4.0
+numpy
+scipy
+scikit-learn
+pandas
+pyarrow
+regex
+matplotlib
+huggingface_hub
+indic_transliteration
+jupyter

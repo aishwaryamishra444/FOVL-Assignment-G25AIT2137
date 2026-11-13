@@ -1,0 +1,1 @@
+{"experiment": "E10 FastText SG, 35 ep", "corpus": "target", "vector_size": 300, "sg": 1, "window": 5, "min_count": 2, "negative": 10, "sample": 0.001, "min_n": 3, "max_n": 6, "epochs": 35, "bucket": 200000, "seed": 42, "workers": 2}
